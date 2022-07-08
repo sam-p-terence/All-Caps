@@ -33,7 +33,8 @@ const {
 app.get("/api/albums", getAlbums);
 app.post("/api/albums", createAlbums)
 
+const port = process.env.PORT || 4004
+
 
 app.listen(4004, () => console.log(`running on 4004`))
 
-const port = process.env.PORT || 4004
