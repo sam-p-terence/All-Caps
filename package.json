@@ -9,9 +9,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-p-terence/All-Caps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sam-p-terence/All-Caps/issues"
+  },
+  "homepage": "https://github.com/sam-p-terence/All-Caps#readme",
   "description": ""
 }
