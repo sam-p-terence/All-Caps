@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "The Wall",
+    "imageURL" : "https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf",
+    "description": "By: Pink Floyd"
+  },
+  {
+    "id": 2,
+    "title": "blink-182 (Self-titled)",
+    "imageURL" : "https://thenewfury.com/wp-content/uploads/2017/08/R-2553269-1290128436.jpeg-1.jpg",
+    "description": "By: blink-182"
+  },
+  {
+    "id": 3,
+    "title": "LZ IV",
+    "imageURL" : "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+    "description": "By: Led Zeppelin"
+  },
+  {
+    "id": 4,
+    "title": "A Moon Shaped Pool",
+    "imageURL" : "https://m.media-amazon.com/images/I/815bmGN5LML._SL1200_.jpg",
+    "description": "By: Radiohead"
+  },
+  {
+    "id": 5,
+    "title": "Beatles 1",
+    "imageURL" : "https://upload.wikimedia.org/wikipedia/en/b/be/The_Beatles_1_album_cover.jpg",
+    "description": "By: The Beatles"
+  },
+  {
+    "id": 6,
+    "title": "Fever Dream",
+    "imageURL" : "https://www.umusic.ca/wp-content/uploads/2019/05/FeverDream.jpg",
+    "description": "By: Of Monsters and Men"
+  },
+  {
+    "id": 7,
+    "title": "Blue Weekend",
+    "imageURL" : "https://media.pitchfork.com/photos/6036a3ca97b2d90479ab21dd/1:1/w_600/Wolf-Alice-Blue-Weekend.jpg",
+    "description": "By: Wolf Alice"
+  },
+  {
+    "id": 8,
+    "title": "The Getaway",
+    "imageURL" : "https://upload.wikimedia.org/wikipedia/en/a/ae/Thegetawayalbum.jpg",
+    "description": "By: Red Hot Chili Peppers"
+  },
+  {
+    "id": 9,
+    "title": "Darkstorm",
+    "imageURL": "https://m.media-amazon.com/images/I/61CNi29CQKL.jpg",
+    "description": "By: The Jezabels"
+  }
+]

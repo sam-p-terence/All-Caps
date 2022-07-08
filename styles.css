@@ -1,0 +1,164 @@
+
+
+body {
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url("https://images.unsplash.com/photo-1530288782965-fbad40327074?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+header {
+  background-color: rgb(255, 255, 255);
+  margin: 50px;
+}
+
+.navigation {
+  /* background-color: rgb(255, 255, 255); */
+  font-family: 'Open Sans', sans-serif;
+  font-size: xx-large;
+}
+
+
+
+/* div.home {
+  text-align: left;
+  position: fixed;
+  left: 10px;
+} */
+
+.homelink {
+  float: left;
+}
+
+.navTwo {
+  float: right;
+  /* word-spacing: 5px; */
+  /* right: 0px; */
+  /* position: fixed; */
+  /* right: 0px; */
+  /* display: outside; */
+}
+
+
+/* .btns-container > button {
+  width: 20px;
+} */
+
+main {
+  display: flex; 
+  justify-content: center;
+}
+
+button {
+  /* background-color: #474545;
+  width: 75px;
+  height: 50px;
+  color: rgb(246, 239, 105);
+  border: 15px;
+  margin: 5px; */
+  display: flex;
+  flex-direction: row;
+} 
+
+/* input[type='text'] {
+  width: 85%;
+  height: 30px;
+  border: none;
+  border-bottom: 2px solid #232323;
+  color: #c54141;
+  background-color: snow;
+} */
+
+.albums-card {
+  /* background-color: rgb(70, 133, 165); */
+  width: 200px;
+  margin: 30px; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+  /* border-top-left-radius: 15px;
+  border-top-right-radius: 15px; */
+  color:rgb(255, 255, 255)
+
+}
+
+#albums-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: flex;
+  display: flex;
+  flex-direction: row;
+}
+
+.albums-cover-image {
+  width: 100%; 
+  height: 100%;
+  border-top-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 45px;
+  border-top-right-radius: 45px;
+}
+
+form {
+  width: 400px;
+  height: flex;
+  /* background-image: url('https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip'); */
+  position: flex;
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-evenly; 
+  align-items: center;
+  margin: 10px;
+}
+
+/* .btns-container { */
+  /* width: 100%; 
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5px; */
+/* } */
+
+
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  padding: 5px 5px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(48, 96, 133);
+  width: 200%;
+} */
+
+
+/* div.home {
+  position: absolute;
+  left: 150px;  
+  width: 200px;
+  height: 120px;
+  display: inline-block;
+} 
+
+div.behind {
+  position: absolute;
+  right: 150px;  
+  /* float: left; */
+  /* width: 200px;
+  height: 120px;
+  display: inline-block;
+}  */
+
