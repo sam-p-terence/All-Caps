@@ -11,26 +11,35 @@ body {
 header {
   /* background-color: rgb(255, 255, 255); */
   /* background-size: 100% 100%; */
+  color: white;
   text-decoration: none; 
   margin: 20px;
 }
 
-.navigation {
-  /* background-color: rgb(255, 255, 255); */
-  /* font-family: 'Open Sans', sans-serif;
-  font-size: xx-large; */
-  text-decoration: none; 
-  /* color: orange;  */
-  color: white;
-  font-size: 30px;
-}
 
 .navigation{
   text-decoration: none;
-  color: rgb(255, 255, 255);
-  }
-  
+  color: white;
+  /* display: block; */
+  /* border-top: 4px solid #e2c532; */
+  /* background-color: #ffffff; */
+  /* height: 22px; */
+  /* line-height: 22px; */
+  padding: 20px;
+  /* font-size: 40px; */
+  /* margin-top: 10px */
+  /* margin-bottom: 13px; */
+  /* clear: both; */
 
+}
+  
+h4 {
+  color: white;
+  font-size: 30px;
+  text-decoration: none;
+  text-align: vertical;
+  display: block;
+}
 
 
 /* div.home {
@@ -39,18 +48,47 @@ header {
   left: 10px;
 } */
 
-.homelink {
-  float: left;
+ /* #homeNav {
+  justify-content: horizontal;
+  display: flex;
+} */
+
+.homeLink {
+    /* text-align: center; */
+    display: inline-block;
+  /* float: right; */
+  /* text-align: vertical; */
+  /* text-decoration: none; */
+  /* display: inline block; */
 }
 
-.navTwo {
+.nav {
+  background-color: rgb(255, 255, 255); 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+
+
+/* .navTwo {
   float: right;
+  /* text-decoration: none; */
+  /* color: white; */
   /* word-spacing: 5px; */
   /* right: 0px; */
   /* position: fixed; */
   /* right: 0px; */
   /* display: outside; */
-}
+/* }  */
+
 
 
 /* .btns-container > button {
