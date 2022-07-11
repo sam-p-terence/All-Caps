@@ -19,7 +19,7 @@
 
 
 const albums = require('./db.json')
-let globalId = 10
+let globalId = 15
 
 module.exports = {
     getAlbums: (req, res) => res.status(200).send(albums),

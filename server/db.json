@@ -7,7 +7,7 @@
   },
   {
     "id": 2,
-    "title": "blink-182 (Self-titled)",
+    "title": "(Self-titled)",
     "imageURL" : "https://thenewfury.com/wp-content/uploads/2017/08/R-2553269-1290128436.jpeg-1.jpg",
     "description": "By: blink-182"
   },
@@ -52,5 +52,35 @@
     "title": "Darkstorm",
     "imageURL": "https://m.media-amazon.com/images/I/61CNi29CQKL.jpg",
     "description": "By: The Jezabels"
+  },
+  {
+    "id": 10,
+    "title": "DAMN.",
+    "imageURL": "https://m.media-amazon.com/images/I/71tdaojeUkL._SL1400_.jpg",
+    "description": "By: Kendrick Lamar"
+  },
+  {
+    "id": 11,
+    "title": "The Resistance",
+    "imageURL": "https://m.media-amazon.com/images/I/91ZwmJUvFDL._SL1500_.jpg",
+    "description": "By: MUSE"
+  },
+  {
+    "id": 12,
+    "title": "IN UTERO",
+    "imageURL": "https://m.media-amazon.com/images/I/71eLqPemDvS._SL1500_.jpg",
+    "description": "By: Nirvana"
+  },
+  {
+    "id": 13,
+    "title": "Only Revolutions",
+    "imageURL": "https://i.discogs.com/2EP5cwNoZQpikelvSynVf15xxk21R9xfgiWCIje2Uvo/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDUx/NzItMTI1ODA0Mjk0/NS5qcGVn.jpeg",
+    "description": "By: Biffy Clyro"
+  },
+  {
+    "id": 14,
+    "title": "Punisher",
+    "imageURL": "https://media.pitchfork.com/photos/5ee923f47bb7acb328d5683d/1:1/w_600/Punisher%20_Phoebe%20Bridgers.jpg",
+    "description": "By: Phoebe Bridgers"
   }
 ]

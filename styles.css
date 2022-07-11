@@ -5,18 +5,31 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
+  /* color: white; */
 }
 
 header {
-  background-color: rgb(255, 255, 255);
-  margin: 50px;
+  /* background-color: rgb(255, 255, 255); */
+  /* background-size: 100% 100%; */
+  text-decoration: none; 
+  margin: 20px;
 }
 
 .navigation {
   /* background-color: rgb(255, 255, 255); */
-  font-family: 'Open Sans', sans-serif;
-  font-size: xx-large;
+  /* font-family: 'Open Sans', sans-serif;
+  font-size: xx-large; */
+  text-decoration: none; 
+  /* color: orange;  */
+  color: white;
+  font-size: 30px;
 }
+
+.navigation{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  }
+  
 
 
 

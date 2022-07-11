@@ -110,6 +110,8 @@ function displayAlbums(arr) {
     albumsContainer.innerHTML = ``
     for (let i = 0; i < arr.length; i++) {
         createAlbumsCard(arr[i])
+        // return displayAlbums[(Math.random() * arr.length)]
+
     }
 }
 
