@@ -11,9 +11,16 @@ body {
 header {
   /* background-color: rgb(255, 255, 255); */
   /* background-size: 100% 100%; */
+  /* color: white; */
+  /* text-decoration: none; 
+  margin: 20px; */
   color: white;
-  text-decoration: none; 
-  margin: 20px;
+  text-decoration: none;
+}
+
+p {
+  color: white;
+  text-decoration: none;
 }
 
 
@@ -25,7 +32,7 @@ header {
   /* background-color: #ffffff; */
   /* height: 22px; */
   /* line-height: 22px; */
-  padding: 20px;
+  /* padding: 20px; */
   /* font-size: 40px; */
   /* margin-top: 10px */
   /* margin-bottom: 13px; */
@@ -35,7 +42,7 @@ header {
   
 h4 {
   color: white;
-  font-size: 30px;
+  font-size: 20px;
   text-decoration: none;
   text-align: vertical;
   display: block;
@@ -53,17 +60,17 @@ h4 {
   display: flex;
 } */
 
-.homeLink {
+/* .homeLink {
     /* text-align: center; */
-    display: inline-block;
+    /* display: inline-block; */
   /* float: right; */
   /* text-align: vertical; */
   /* text-decoration: none; */
   /* display: inline block; */
-}
+/* }  */
+/* 
 
 .nav {
-  /* background-color: rgb(255, 255, 255);  */
   list-style-type: none;
   text-align: center;
   margin: 0;
@@ -74,7 +81,8 @@ h4 {
   display: inline-block;
   font-size: 20px;
   padding: 20px;
-}
+  text-decoration: none;
+} */
 
 
 
@@ -213,3 +221,34 @@ div.behind {
   display: inline-block;
 }  */
 
+
+.container {
+  display: center;
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+  /* border: 5px solid black; */
+  padding: 200px 100px;
+}
+
+.text {
+  font-size: 17px;
+  color: white;
+  text-decoration: none;
+}
+
+.nav {
+  /* background-color: rgb(255, 255, 255);  */
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-decoration: none;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
