@@ -3,84 +3,84 @@
     "id": 1,
     "title": "The Wall",
     "imageURL" : "https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf",
-    "description": "By: Pink Floyd"
+    "description": "Pink Floyd"
   },
   {
     "id": 2,
     "title": "(Self-titled)",
     "imageURL" : "https://thenewfury.com/wp-content/uploads/2017/08/R-2553269-1290128436.jpeg-1.jpg",
-    "description": "By: blink-182"
+    "description": "blink-182"
   },
   {
     "id": 3,
     "title": "LZ IV",
     "imageURL" : "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
-    "description": "By: Led Zeppelin"
+    "description": "Led Zeppelin"
   },
   {
     "id": 4,
     "title": "A Moon Shaped Pool",
     "imageURL" : "https://m.media-amazon.com/images/I/815bmGN5LML._SL1200_.jpg",
-    "description": "By: Radiohead"
+    "description": "Radiohead"
   },
   {
     "id": 5,
     "title": "Beatles 1",
     "imageURL" : "https://upload.wikimedia.org/wikipedia/en/b/be/The_Beatles_1_album_cover.jpg",
-    "description": "By: The Beatles"
+    "description": "The Beatles"
   },
   {
     "id": 6,
     "title": "Fever Dream",
     "imageURL" : "https://www.umusic.ca/wp-content/uploads/2019/05/FeverDream.jpg",
-    "description": "By: Of Monsters and Men"
+    "description": "Of Monsters and Men"
   },
   {
     "id": 7,
     "title": "Blue Weekend",
     "imageURL" : "https://media.pitchfork.com/photos/6036a3ca97b2d90479ab21dd/1:1/w_600/Wolf-Alice-Blue-Weekend.jpg",
-    "description": "By: Wolf Alice"
+    "description": "Wolf Alice"
   },
   {
     "id": 8,
     "title": "The Getaway",
     "imageURL" : "https://upload.wikimedia.org/wikipedia/en/a/ae/Thegetawayalbum.jpg",
-    "description": "By: Red Hot Chili Peppers"
+    "description": "Red Hot Chili Peppers"
   },
   {
     "id": 9,
     "title": "Darkstorm",
     "imageURL": "https://m.media-amazon.com/images/I/61CNi29CQKL.jpg",
-    "description": "By: The Jezabels"
+    "description": "The Jezabels"
   },
   {
     "id": 10,
     "title": "DAMN.",
     "imageURL": "https://m.media-amazon.com/images/I/71tdaojeUkL._SL1400_.jpg",
-    "description": "By: Kendrick Lamar"
+    "description": "Kendrick Lamar"
   },
   {
     "id": 11,
     "title": "The Resistance",
     "imageURL": "https://m.media-amazon.com/images/I/91ZwmJUvFDL._SL1500_.jpg",
-    "description": "By: MUSE"
+    "description": "MUSE"
   },
   {
     "id": 12,
     "title": "IN UTERO",
     "imageURL": "https://m.media-amazon.com/images/I/71eLqPemDvS._SL1500_.jpg",
-    "description": "By: Nirvana"
+    "description": "Nirvana"
   },
   {
     "id": 13,
     "title": "Only Revolutions",
     "imageURL": "https://i.discogs.com/2EP5cwNoZQpikelvSynVf15xxk21R9xfgiWCIje2Uvo/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDUx/NzItMTI1ODA0Mjk0/NS5qcGVn.jpeg",
-    "description": "By: Biffy Clyro"
+    "description": "Biffy Clyro"
   },
   {
     "id": 14,
     "title": "Punisher",
     "imageURL": "https://media.pitchfork.com/photos/5ee923f47bb7acb328d5683d/1:1/w_600/Punisher%20_Phoebe%20Bridgers.jpg",
-    "description": "By: Phoebe Bridgers"
+    "description": "Phoebe Bridgers"
   }
 ]

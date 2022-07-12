@@ -100,8 +100,8 @@ function createAlbumsCard(albums) {
     const albumsCard = document.createElement('div')
     albumsCard.classList.add('albums-card')
     albumsCard.innerHTML = `<img alt='album image' src=${albums.imageURL} class="albums-cover-image"/>
-    <p class="title">${albums.title}</p>
-    <p class="description">${albums.description}`
+    <p class="title"><p>${albums.title}</p>
+    <p class="description"><p>Artist: ${albums.description}</p>`
     albumsContainer.appendChild(albumsCard)
 }
 
