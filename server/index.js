@@ -26,10 +26,10 @@ const app = express()
 app.use(express.json())
 app.use(cors())
 
-app.get('/', (req, res) => {
+app.get('../', (req, res) => {
     res.sendFile(path.join(__dirname, '../intro/intro.html'))
 })
-app.get('/css', (req, res) => {
+app.get('../css', (req, res) => {
     res.sendFile(path.join(__dirname, '../intro/intro.css'))
 })
 // app.get('/js', (req, res) => {
