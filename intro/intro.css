@@ -27,6 +27,7 @@ body {
   text-transform:uppercase;
   font-size:3vw;
   font-weight:bold;
+  margin: 15px;
 }
 .rainbow-button:after {
   content:attr(alt);
@@ -36,6 +37,7 @@ body {
   display:flex;
   align-items:center;
   justify-content:center;
+  
 }
 .rainbow-button:hover {
   animation:slidebg 2s linear infinite;
