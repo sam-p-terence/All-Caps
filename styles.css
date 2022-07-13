@@ -183,12 +183,12 @@ form {
 /*     background-color: blanchedalmond; */
   position: relative;
   display: flex; 
-  flex-direction:unset;
-  justify-content: space-evenly; 
-  align-items: center;
+  /* flex-direction:unset; */
+  /* justify-content: space-evenly;  */
+  /* align-items: center; */
   margin: 30px;
   align-items:center;
-  margin-left:150px;
+  /* margin-left:150px; */
 }
 
 
@@ -286,9 +286,14 @@ h2 {
   background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  /* border-color: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722); */
+
 
 }
 
-button {
-
+h2:hover {
+  /* width:calc(20vw + 6px);
+  height:calc(8vw + 6px); */
+  background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 80%, #00C0FF 100%);
+  /* border-radius:5px; */
 }
